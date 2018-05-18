@@ -1,6 +1,6 @@
 print("I will now check my chickens:") # print a promt
 
-print("Hens", 25.0 + 30.0 / 6.0) # print the amount of hens
+print("Hens", 25.0 + 30.0 / 6.0, "comma", 4 + 7, "hey") # print the amount of hens
 print("Roosters", 100.0 - 25.0 * 3.0 % 4.0) # print the amount of Roosters
 
 print("Now I will count the eggs:") # print a prompt
