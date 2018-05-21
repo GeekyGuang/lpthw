@@ -1,4 +1,4 @@
-# copy one file to another in one line
+# coping one file to another in one line of code
 open(input("to_file: "), 'w').write(open(input("from_file: ")).read())
 
 
