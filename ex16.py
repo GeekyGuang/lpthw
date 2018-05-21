@@ -37,3 +37,4 @@ target.close() # this is necessary
 target = open(filename)
 print(target.read()) # You can only read after closing the file
 target.close()
+
